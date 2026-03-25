@@ -44,8 +44,9 @@ userhub-docker-lab/
 │ └── init.sql
 ├── README.md
 └── .gitignore
-text## Как запустить проект
 ```
+
+text## Как запустить проект
 
 ```bash
 # 1. Клонировать репозиторий
